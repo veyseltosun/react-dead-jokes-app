@@ -1,6 +1,7 @@
 import { Typography } from '@mui/material'
 import { Box } from '@mui/material'
 import React from 'react'
+import Joke from './Joke'
 
 const styleBox = {
     display: "flex",
@@ -68,6 +69,7 @@ const JokesList = () => {
 
             </Box>
             <Box sx={styleBox.jokesList}>
+                <Joke/>
 
             </Box>
 
