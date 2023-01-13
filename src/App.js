@@ -1,8 +1,11 @@
 import React from 'react'
+import styles from './App.style'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div style={styles.app}>
+
+    </div>
   )
 }
 
