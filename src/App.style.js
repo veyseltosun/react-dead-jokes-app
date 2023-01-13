@@ -7,9 +7,9 @@ const styles = {
         
         height:"100vh",
         alignItems:"center",
-        justfyContent:"center",
+        justifyContent:"center",
         fontFamily:"Rubik",
-        
+
 
 
     }
